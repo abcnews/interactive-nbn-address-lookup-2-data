@@ -6,7 +6,6 @@
     "fast": 2,
     "reliable": 1,
     "cheap": 2,
-    "intro": "",
     "who": "TODO",
     "why": "TODO",
     "how": "TODO",
@@ -19,7 +18,6 @@
     "fast": 3,
     "reliable": 2,
     "cheap": 1,
-    "intro": "",
     "who": "TODO",
     "why": "TODO",
     "how": "TODO",
@@ -32,7 +30,6 @@
     "fast": 3,
     "reliable": 3,
     "cheap": 1,
-    "intro": "",
     "who": "TODO",
     "why": "TODO",
     "how": "TODO",
@@ -45,7 +42,6 @@
     "fast": 3,
     "reliable": 2,
     "cheap": 2,
-    "intro": "",
     "who": "TODO",
     "why": "TODO",
     "how": "TODO",
@@ -58,7 +54,6 @@
     "fast": 2,
     "reliable": 1,
     "cheap": 1,
-    "intro": "",
     "who": "TODO",
     "why": "TODO",
     "how": "TODO",
@@ -71,7 +66,6 @@
     "fast": 2,
     "reliable": 2,
     "cheap": 2,
-    "intro": "",
     "who": "TODO",
     "why": "TODO",
     "how": "TODO",
@@ -84,7 +78,6 @@
     "fast": 1,
     "reliable": 1,
     "cheap": 2,
-    "intro": "",
     "who": "TODO",
     "why": "TODO",
     "how": "TODO",
@@ -97,7 +90,6 @@
     "fast": 1,
     "reliable": 2,
     "cheap": 1,
-    "intro": "",
     "who": "TODO",
     "why": "TODO",
     "how": "TODO",
@@ -106,22 +98,14 @@
   {
     "id": "unknown",
     "name": "Unknown",
-    "compare": false,
-    "intro": "We couldn't find any NBN connection information listed for this address. Give the <a href='https://www.nbnco.com.au/' target='_blank'>NBN Co website</a> a try.",
-    "who": "",
-    "why": "",
-    "how": "",
-    "onething": ""
+    "description": "We couldn't find any NBN connection information listed for this address. Give the <a href='https://www.nbnco.com.au/' target='_blank'>NBN Co website</a> a try.",
+    "compare": false
   },
   {
     "id": "asa",
     "name": "Other broadband provider",
-    "compare": false,
-    "intro": "A broadband provider that existed before the NBN already provides adequate internet access in this area. NBN Co doesn't provide information about its speed or reliability.",
-    "who": "",
-    "why": "",
-    "how": "",
-    "onething": ""
+    "description": "A broadband provider that existed before the NBN already provides adequate internet access in this area. NBN Co doesn't provide information about its speed or reliability.",
+    "compare": false
   }
 ]
 
