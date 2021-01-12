@@ -65,11 +65,11 @@
     "compare": true,
     "fast": 2,
     "reliable": 2,
-    "cheap": 2,
+    "cheap": 3,
     "who": "People in the NBN fibre footprint that don't receive full fibre. There are some other private fibre providers but these are rare",
-    "why": "For most Aussies living in cities and towns, this will be your default service",
+    "why": "The NBN design changed under the Coalition so existing infrastructure was used to roll it out at a lower price",
     "how": "Sign up through an internet service provider",
-    "onething": "This uses old wires, so sometimes the technology is faulty or doesn't offer the highest speeds"
+    "onething": "This typically uses old wires, so sometimes the technology is faulty or doesn't offer the highest speeds"
   },
   {
     "id": "satellite",
