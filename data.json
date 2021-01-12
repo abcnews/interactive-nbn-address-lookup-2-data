@@ -1,29 +1,5 @@
 [
   {
-    "id": "fixed-wireless",
-    "name": "Fixed wireless",
-    "compare": true,
-    "fast": 2,
-    "reliable": 1,
-    "cheap": 2,
-    "who": "People either in the NBN fixed wireless footprint, or near a private provider's tower",
-    "why": "A dish on your roof connects to a local tower, giving better speeds than satellite in regional areas",
-    "how": "Available through the NBN or private companies that have built their own towers. Visit BIRRR to see if one is near you",
-    "onething": "Private providers often require an install fee or long contract, so mobile broadband may be a better option"
-  },
-  {
-    "id": "5g-broadband",
-    "name": "5G broadband",
-    "compare": true,
-    "fast": 3,
-    "reliable": 2,
-    "cheap": 1,
-    "who": "People within the 5G rollout map. This is growing so check with your provider",
-    "why": "Faster wireless technology is rolling out now, first in cities",
-    "how": "You will need a 5G phone or modem, and be in the initial coverage footprint",
-    "onething": "While it's new not many people are using it so speeds are incredibly fast"
-  },
-  {
     "id": "business-fibre",
     "name": "Business fibre",
     "compare": true,
@@ -48,6 +24,30 @@
     "onething": "Some customers may find their provider doesn't match advertised speeds. Shop around"
   },
   {
+    "id": "other-fibre",
+    "name": "Other fibre",
+    "compare": true,
+    "fast": 2,
+    "reliable": 2,
+    "cheap": 3,
+    "who": "People in the NBN fibre footprint that don't receive full fibre. There are some other private fibre providers but these are rare",
+    "why": "The NBN design changed under the Coalition so existing infrastructure was used to roll it out at a lower price",
+    "how": "Sign up through an internet service provider",
+    "onething": "This typically uses old wires, so sometimes the technology is faulty or doesn't offer the highest speeds"
+  },
+  {
+    "id": "5g-broadband",
+    "name": "5G broadband",
+    "compare": true,
+    "fast": 3,
+    "reliable": 2,
+    "cheap": 1,
+    "who": "People within the 5G rollout map. This is growing so check with your provider",
+    "why": "Faster wireless technology is rolling out now, first in cities",
+    "how": "You will need a 5G phone or modem, and be in the initial coverage footprint",
+    "onething": "While it's new not many people are using it so speeds are incredibly fast"
+  },
+  {
     "id": "3g/4g-broadband",
     "name": "3G/4G broadband",
     "compare": true,
@@ -60,16 +60,16 @@
     "onething": "Telstra's regional network is generally superior to the other providers"
   },
   {
-    "id": "other-fibre",
-    "name": "Other fibre",
+    "id": "fixed-wireless",
+    "name": "Fixed wireless",
     "compare": true,
     "fast": 2,
-    "reliable": 2,
-    "cheap": 3,
-    "who": "People in the NBN fibre footprint that don't receive full fibre. There are some other private fibre providers but these are rare",
-    "why": "The NBN design changed under the Coalition so existing infrastructure was used to roll it out at a lower price",
-    "how": "Sign up through an internet service provider",
-    "onething": "This typically uses old wires, so sometimes the technology is faulty or doesn't offer the highest speeds"
+    "reliable": 1,
+    "cheap": 2,
+    "who": "People either in the NBN fixed wireless footprint, or near a private provider's tower",
+    "why": "A dish on your roof connects to a local tower, giving better speeds than satellite in regional areas",
+    "how": "Available through the NBN or private companies that have built their own towers. Visit BIRRR to see if one is near you",
+    "onething": "Private providers often require an install fee or long contract, so mobile broadband may be a better option"
   },
   {
     "id": "satellite",
