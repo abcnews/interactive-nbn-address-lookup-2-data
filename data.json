@@ -19,9 +19,9 @@
     "reliable": 2,
     "cheap": 1,
     "who": "People within the 5G rollout map. This is growing so check with your provider",
-    "why": "New wireless technology rolling out now, first in cities",
-    "how": "You will need a 5G phone or modem, and be in an initial coverage footprint",
-    "onething": "While it's new, not many people are using it so speeds are incredibly fast"
+    "why": "Faster wireless technology is rolling out now, first in cities",
+    "how": "You will need a 5G phone or modem, and be in the initial coverage footprint",
+    "onething": "While it's new not many people are using it so speeds are incredibly fast"
   },
   {
     "id": "business-fibre",
@@ -32,8 +32,8 @@
     "cheap": 1,
     "who": "People who are in a business fibre zone and are prepared to pay",
     "why": "Solid upload speeds and little congestion on dedicated fibre designed for businesses",
-    "how": "Check if you are in a business fibre zone, then contact a business broadband provider",
-    "onething": "Installation is free, but you need to sign up to long-term plans starting at around $500 per month"
+    "how": "Check if you are in a business fibre zone, then contact a provider",
+    "onething": "Installation is free, but plans start at around $500 per month"
   },
   {
     "id": "full-fibre",
@@ -44,7 +44,7 @@
     "cheap": 2,
     "who": "People who got lucky in the NBN rollout, or who are prepared to pay to have it installed",
     "why": "Fibre from the internet to your home future-proofs your access",
-    "how": "Get lucky in the NBN rollout or pay to upgrade via NBN's Technology Choice program",
+    "how": "Once you have a connection in your home, you can use any provider to connect",
     "onething": "NBN Co is slowly expanding its full fibre network, so it's hard to know whether to splash out on an install now"
   },
   {
@@ -55,7 +55,7 @@
     "reliable": 1,
     "cheap": 1,
     "who": "Anyone! Though they should be careful which provider offers the best local service",
-    "why": "3G and 4G broadband has huge reach and governments are expanding the 4G network",
+    "why": "3G and 4G broadband has huge reach and governments are helping expand the 4G network",
     "how": "All you need is a modem or phone with a SIM card. Both can be obtained online or at a local store",
     "onething": "Telstra's regional network is generally superior to the other providers"
   },
@@ -68,8 +68,8 @@
     "cheap": 2,
     "who": "People in the NBN fibre footprint that don't receive full fibre. There are some other private fibre providers but these are rare",
     "why": "For most Aussies living in cities and towns, this will be your default service",
-    "how": "Sign up through an internet service provider, which arranges an installation",
-    "onething": "This uses old wires, so sometimes the technology is faulty or doesn't off the highest speeds"
+    "how": "Sign up through an internet service provider",
+    "onething": "This uses old wires, so sometimes the technology is faulty or doesn't offer the highest speeds"
   },
   {
     "id": "satellite",
@@ -80,7 +80,7 @@
     "cheap": 2,
     "who": "Only those within the NBN satellite footprint",
     "why": "Faster than ADSL, covers every corner of Australia, recent improvements",
-    "how": "Until competitors emerge, only people in the NBN satellite footprint can get it. Visit nbnco.com.au",
+    "how": "Until competitors emerge, only people in the NBN satellite footprint can get it",
     "onething": "Private providers like SpaceX are set to provide competition in the coming years"
   },
   {
@@ -91,9 +91,9 @@
     "reliable": 2,
     "cheap": 1,
     "who": "Only those within the NBN fixed wireless and satellite footprints",
-    "why": "Proven technology and is cheap - plans offering unlimited data are common",
-    "how": "ADSL is being phased out except in satellite and fixed wireless areas. Check with your provider",
-    "onething": "If you need a landline phone and only rarely use the internet, this could be your best option"
+    "why": "Proven technology and is cheap: plans offering unlimited data are common",
+    "how": "ADSL is being phased out except in regional areas. Check with your provider",
+    "onething": "If you need a landline phone and only rarely use the internet, this could be an option"
   },
   {
     "id": "unknown",
