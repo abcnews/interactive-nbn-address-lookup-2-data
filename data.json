@@ -89,7 +89,7 @@
     "compare": true,
     "fast": 1,
     "reliable": 2,
-    "cheap": 1,
+    "cheap": 3,
     "who": "Only those within the NBN fixed wireless and satellite footprints",
     "why": "Proven technology and is cheap: plans offering unlimited data are common",
     "how": "ADSL is being phased out except in regional areas. Check with your provider",
