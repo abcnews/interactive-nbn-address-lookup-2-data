@@ -98,7 +98,7 @@
   {
     "id": "unknown",
     "name": "Unknown connection",
-    "description": "We couldn't find any NBN connection information listed for this address. Give the <a href='https://www.nbnco.com.au/' target='_blank'>NBN Co website</a> a try.",
+    "description": "We couldn't find any NBN connection information listed for this address. Visit the <a href='https://regionaltechhub.org.au/' target='_blank'>Regional Tech Hub</a> for assistance.",
     "compare": false
   },
   {
