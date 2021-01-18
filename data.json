@@ -48,8 +48,8 @@
     "onething": "While it's new not many people are using it so speeds are incredibly fast"
   },
   {
-    "id": "3g/4g-broadband",
-    "name": "3G/4G broadband",
+    "id": "4g-broadband",
+    "name": "4G broadband",
     "compare": true,
     "fast": 2,
     "reliable": 1,
